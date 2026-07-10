@@ -52,7 +52,7 @@ I also work with **Proteus** for circuit-level design and simulation.
 <tr>
 <td width="50%" valign="top">
 
-**🧮 [RISC-V Single-Cycle Processor](https://github.com/shanooo773/riscv-single-cycle-processor)**
+**🧮 [RISC-V Single-Cycle Processor](https://github.com/Umama-27/riscv-single-cycle-processor)**
 
 32-bit single-cycle core implementing the RV32I subset. Fully modular RTL — PC, ALU, Control Unit, Register File, Immediate Generator, Instruction/Data Memory — with instruction-by-instruction waveform verification in Vivado XSim.
 
@@ -61,7 +61,7 @@ I also work with **Proteus** for circuit-level design and simulation.
 </td>
 <td width="50%" valign="top">
 
-**🖥️ [MIPS Processor — FPGA Implementation](https://github.com/shanooo773/mips-fpga-processor)**
+**🖥️ [MIPS Processor — FPGA Implementation](https://github.com/Umama-27/mips-fpga-processor)**
 
 32-bit single-cycle MIPS core, placed and routed on a Nexys A7 FPGA with timing closure met. Includes a live hardware debug interface — step-clock button, switch-selectable register view, seven-segment output.
 
@@ -76,8 +76,8 @@ I also work with **Proteus** for circuit-level design and simulation.
 ### 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanooo773&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanooo773&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Umama-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umama-27&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
