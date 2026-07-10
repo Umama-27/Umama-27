@@ -1,107 +1,89 @@
-<h1 align="center">Hi there, I'm UMAMA 👋</h1>
-<h3 align="center">Computer Engineering Undergraduate | Digital Design & Verilog HDL Enthusiast</h3>
+<p align="center">
+  <img src="profile_banner.svg" width="100%" alt="Umama Hanif — Digital Design & Chip Architecture"/>
+</p>
+
+<h3 align="center">🔧 Digital Design Engineer &nbsp;|&nbsp; Verilog HDL &amp; RTL &nbsp;|&nbsp; Computer Architecture</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=Digital+Design+Engineer;Verilog+HDL+%26+RTL+Design;RISC-V+%26+MIPS+Processor+Architect;FPGA+Implementation+(Xilinx+Vivado);Proteus+Circuit+Design" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=shanooo773&label=Profile%20Views&color=38bdf8&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Verilog_HDL-Expert-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RTL_Design-Specialist-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FPGA-Xilinx_Vivado-004C97?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Architecture-RISC--V_%7C_MIPS-8A2BE2?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shanooo773&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/shanooo773?label=Followers&style=social" />
+  <a href="https://www.linkedin.com/in/umama-hanif-343470319"><img src="https://img.shields.io/badge/LinkedIn-Umama%20Hanif-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hanifumama91@gmail.com"><img src="https://img.shields.io/badge/Email-hanifumama91%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 👩‍💻 About
 
-- 🎓 **BS Computer Engineering** at **UET Taxila**
-- ⚙️ **Digital Design Engineer** — designing and verifying processors from the ground up in Verilog HDL
-- 🧠 Built a **single-cycle RISC-V processor** and a **MIPS processor with full FPGA implementation** (Nexys A7, Xilinx Artix-7)
-- 🔌 Comfortable across the full hardware design flow: RTL design → simulation/verification → synthesis → FPGA implementation → timing/power analysis
-- 🖥️ Also work with **Proteus** for circuit design & simulation
-- 🌱 Actively expanding into **pipelined processor design** and more advanced RTL verification
+I'm a Computer Engineering undergraduate who designs digital hardware from the transistor-level concept up to a working chip on an FPGA. My work spans the full RTL flow — architecture, Verilog implementation, simulation/verification, synthesis, and physical implementation with timing and power closure.
 
-### 🎯 Current Focus
-- 🔧 Expanding RISC-V core to support more of the RV32I instruction set
-- 📐 Building out a Proteus circuit design portfolio
-- 💼 Taking on freelance RTL design, FPGA, and digital logic projects
+Two of my core builds:
+- A **single-cycle RISC-V processor**, fully simulated and verified instruction-by-instruction
+- A **single-cycle MIPS processor**, taken all the way to a **physical FPGA implementation** on a Nexys A7 board, complete with a working on-board debug interface
+
+I also work with **Proteus** for circuit-level design and simulation.
 
 ---
 
-## 🛠️ Technology Stack
+### 🧰 Toolbox
 
-### ⚙️ **Digital Design & Hardware**
-![Verilog](https://img.shields.io/badge/Verilog-CC0000?style=for-the-badge&logo=v&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge)
-![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-004C97?style=for-the-badge)
-![FPGA](https://img.shields.io/badge/FPGA-1E3A8A?style=for-the-badge)
-![Proteus](https://img.shields.io/badge/Proteus-E97627?style=for-the-badge)
-
-### 🧮 **Computer Architecture**
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge)
-![MIPS](https://img.shields.io/badge/MIPS-00599C?style=for-the-badge)
-![Digital Logic Design](https://img.shields.io/badge/Digital_Logic_Design-8A2BE2?style=for-the-badge)
-
-### 💻 **Programming**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### 🌐 **Other Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🏆 Featured Projects
-
-| 🧮 [RISC-V Single-Cycle Processor](https://github.com/shanooo773/riscv-single-cycle-processor) ![Status](https://img.shields.io/badge/Status-Simulated_%26_Verified-brightgreen?style=flat-square) | 🖥️ [MIPS FPGA Processor](https://github.com/shanooo773/mips-fpga-processor) ![Status](https://img.shields.io/badge/Status-FPGA_Implemented-blue?style=flat-square) |
-|---|---|
-| 32-bit single-cycle RISC-V core (RV32I subset) — full modular RTL design covering ALU, Control Unit, Register File, Immediate Generator, Data/Instruction Memory. Instruction-by-instruction verified in Xilinx Vivado XSim with waveform captures for every instruction. | 32-bit single-cycle MIPS processor, fully placed & routed on a Nexys A7 (Artix-7) FPGA board with timing closure achieved. Includes a live hardware debug interface — step-clock button, switch-selectable register/memory inspection, seven-segment display output. |
-| *Tech: Verilog HDL, Xilinx Vivado, XSim* | *Tech: Verilog HDL, Xilinx Vivado, Nexys A7, FPGA Implementation* |
-
-| 🔌 Proteus Circuit Design Projects | 
-|---|
-| Circuit design and simulation work in Proteus, covering schematic capture and simulation for digital/analog circuits. *(Add repo link once uploaded)* |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shanooo773&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanooo773&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanooo773&theme=tokyonight" />
+<p>
+  <img src="https://img.shields.io/badge/Verilog-CC0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/VHDL-4B0082?style=flat-square" />
+  <img src="https://img.shields.io/badge/Xilinx%20Vivado-004C97?style=flat-square" />
+  <img src="https://img.shields.io/badge/FPGA-1E3A8A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Proteus-E97627?style=flat-square" />
+  <img src="https://img.shields.io/badge/RISC--V-283272?style=flat-square" />
+  <img src="https://img.shields.io/badge/MIPS-00599C?style=flat-square" />
+  <br/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+### ⚡ Featured Work
 
-<p align="center">
-  <a href="/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hanifumama91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 💡 Open to freelance work in:
-🔹 Verilog/VHDL Module Design (ALU, FSMs, Control Units, Memory Interfaces)
-🔹 RTL Design & Testbench Verification
-🔹 FPGA Implementation & Debugging
-🔹 RISC-V / MIPS Processor Design
-🔹 Digital Logic Design & Computer Architecture Projects
-🔹 Proteus Circuit Design & Simulation
+**🧮 [RISC-V Single-Cycle Processor](https://github.com/shanooo773/riscv-single-cycle-processor)**
+
+32-bit single-cycle core implementing the RV32I subset. Fully modular RTL — PC, ALU, Control Unit, Register File, Immediate Generator, Instruction/Data Memory — with instruction-by-instruction waveform verification in Vivado XSim.
+
+`Verilog` `Xilinx Vivado` `XSim`
+
+</td>
+<td width="50%" valign="top">
+
+**🖥️ [MIPS Processor — FPGA Implementation](https://github.com/shanooo773/mips-fpga-processor)**
+
+32-bit single-cycle MIPS core, placed and routed on a Nexys A7 FPGA with timing closure met. Includes a live hardware debug interface — step-clock button, switch-selectable register view, seven-segment output.
+
+`Verilog` `FPGA` `Nexys A7` `Timing Closure`
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to check out my repositories or reach out for collaboration!</i></p>
+### 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanooo773&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanooo773&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+### 🤝 Open to Freelance Work In
+
+`Verilog / VHDL module design` &nbsp;•&nbsp; `RTL design & testbench verification` &nbsp;•&nbsp; `FPGA implementation & debugging` &nbsp;•&nbsp; `RISC-V / MIPS processor design` &nbsp;•&nbsp; `Digital logic & computer architecture projects` &nbsp;•&nbsp; `Proteus circuit design & simulation`
+
+<p align="center"><i>Feel free to explore my repositories or reach out — always happy to talk chip design.</i></p>
