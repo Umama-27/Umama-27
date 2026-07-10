@@ -5,7 +5,7 @@
 <h3 align="center">🔧 Digital Design Engineer &nbsp;|&nbsp; Verilog HDL &amp; RTL &nbsp;|&nbsp; Computer Architecture</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shanooo773&label=Profile%20Views&color=38bdf8&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Umama-27&label=Profile%20Views&color=38bdf8&style=flat-square" />
 </p>
 
 <p align="center">
