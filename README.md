@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_banner.svg" width="100%" alt="Umama Hanif — Digital Design & Chip Architecture"/>
+  <img src="profile_banner.svg" width="50%" alt="Umama Hanif — Digital Design & Chip Architecture"/>
 </p>
 
 <h3 align="center">🔧 Digital Design Engineer &nbsp;|&nbsp; Verilog HDL &amp; RTL &nbsp;|&nbsp; Computer Architecture</h3>
