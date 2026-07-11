@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="profile_banner.svg" width="50%" alt="Umama Hanif — Digital Design & Chip Architecture"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Umama+Hanif;Digital+Design+Engineer;Verilog+HDL+%26+RTL+Design;RISC-V+%26+MIPS+Processor+Architect;FPGA+Implementation+Specialist" alt="Typing SVG" />
 </p>
-
 <h3 align="center">🔧 Digital Design Engineer &nbsp;|&nbsp; Verilog HDL &amp; RTL &nbsp;|&nbsp; Computer Architecture</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Umama-27&label=Profile%20Views&color=38bdf8&style=flat-square" />
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/umama-hanif-343470319"><img src="https://img.shields.io/badge/LinkedIn-Umama%20Hanif-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hanifumama91@gmail.com"><img src="https://img.shields.io/badge/Email-hanifumama91%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
