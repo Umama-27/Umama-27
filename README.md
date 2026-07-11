@@ -14,13 +14,17 @@
 
 ### 👩‍💻 About
 
-I'm a Computer Engineering undergraduate who designs digital hardware from the transistor-level concept up to a working chip on an FPGA. My work spans the full RTL flow — architecture, Verilog implementation, simulation/verification, synthesis, and physical implementation with timing and power closure.
+I'm a Computer Engineering undergraduate with a growing interest in digital design and how hardware actually comes together under the hood. I like understanding systems from the ground up — how a line of Verilog eventually becomes a signal switching on real silicon — and I'm still very much in the process of building that understanding.
+
+Outside of hardware design, I've also worked on circuit-level design in Proteus and picked up programming along the way (Python, C/C++) as tools to support whatever I'm building. I'm not chasing a single narrow specialty just yet — I'd rather stay curious, keep learning the fundamentals properly, and let that guide where I specialize next.
+
+If it involves figuring out why something isn't working the way it's supposed to, I'm probably going to enjoy it.
 
 Two of my core builds:
 - A **single-cycle RISC-V processor**, fully simulated and verified instruction-by-instruction
 - A **single-cycle MIPS processor**, taken all the way to a **physical FPGA implementation** on a Nexys A7 board, complete with a working on-board debug interface
 
-I also work with **Proteus** for circuit-level design and simulation.
+
 
 ---
 
@@ -84,7 +88,4 @@ I also work with **Proteus** for circuit-level design and simulation.
 `Verilog / VHDL module design` &nbsp;•&nbsp; `RTL design & testbench verification` &nbsp;•&nbsp; `FPGA implementation & debugging` &nbsp;•&nbsp; `RISC-V / MIPS processor design` &nbsp;•&nbsp; `Digital logic & computer architecture projects` &nbsp;•&nbsp; `Proteus circuit design & simulation`
 
 <p align="center"><i>Feel free to explore my repositories or reach out — always happy to talk chip design.</i></p>
-
-<p align="center">
-  <img src="fpga_board_photo.png" width="30%" alt="Nexys A7 FPGA board with Umama-27 on seven-segment display"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=120&section=footer&text=Still%20Learning,%20Still%20Building&fontColor=ffffff&fontSize=22&animation=fadeIn"/>
