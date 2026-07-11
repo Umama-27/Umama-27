@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_banner.svg" width="50%" alt="Umama Hanif — Digital Design & Chip Architecture"/>
+  <img src="profile_banner.svg" width="100%" alt="Umama Hanif — Digital Design & Chip Architecture"/>
 </p>
 
 <h3 align="center">🔧 Digital Design Engineer &nbsp;|&nbsp; Verilog HDL &amp; RTL &nbsp;|&nbsp; Computer Architecture</h3>
@@ -87,3 +87,7 @@ I also work with **Proteus** for circuit-level design and simulation.
 `Verilog / VHDL module design` &nbsp;•&nbsp; `RTL design & testbench verification` &nbsp;•&nbsp; `FPGA implementation & debugging` &nbsp;•&nbsp; `RISC-V / MIPS processor design` &nbsp;•&nbsp; `Digital logic & computer architecture projects` &nbsp;•&nbsp; `Proteus circuit design & simulation`
 
 <p align="center"><i>Feel free to explore my repositories or reach out — always happy to talk chip design.</i></p>
+
+<p align="center">
+  <img src="fpga_board_photo.png" width="85%" alt="Nexys A7 FPGA board with Umama-27 on seven-segment display"/>
+</p>
