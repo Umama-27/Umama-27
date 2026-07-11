@@ -76,8 +76,8 @@ I also work with **Proteus** for circuit-level design and simulation.
 ### 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-beryl-delta-10.vercel.app/api?username=Umama-27&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-beryl-delta-10.vercel.app/api/top-langs/?username=Umama-27&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-beryl-delta-10.vercel.app/api?username=Umama-27&show_icons=true&theme=tokyonight&hide_border=true" height="120"/>
+  <img src="https://github-readme-stats-beryl-delta-10.vercel.app/api/top-langs/?username=Umama-27&layout=compact&theme=tokyonight&hide_border=true" height="120"/>
 </p>
 
 ---
@@ -89,5 +89,5 @@ I also work with **Proteus** for circuit-level design and simulation.
 <p align="center"><i>Feel free to explore my repositories or reach out — always happy to talk chip design.</i></p>
 
 <p align="center">
-  <img src="fpga_board_photo.png" width="85%" alt="Nexys A7 FPGA board with Umama-27 on seven-segment display"/>
+  <img src="fpga_board_photo.png" width="40%" alt="Nexys A7 FPGA board with Umama-27 on seven-segment display"/>
 </p>
