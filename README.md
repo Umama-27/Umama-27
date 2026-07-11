@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_banner.svg" width="50%" alt="Umama Hanif — Digital Design & Chip Architecture"/>
+  <img src="profile_banner.svg" width="100%" alt="Umama Hanif — Digital Design & Chip Architecture"/>
 </p>
 
 <h3 align="center">🔧 Digital Design Engineer &nbsp;|&nbsp; Verilog HDL &amp; RTL &nbsp;|&nbsp; Computer Architecture</h3>
@@ -76,8 +76,8 @@ I also work with **Proteus** for circuit-level design and simulation.
 ### 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umama-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umama-27&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-beryl-delta-10.vercel.app/api?username=Umama-27&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-beryl-delta-10.vercel.app/api/top-langs/?username=Umama-27&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
